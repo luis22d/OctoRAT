@@ -8,6 +8,9 @@ Octo RAT is Designed To Infect various of systems like Windows, MAC, Android 13+
 <img width="1473" height="1009" alt="Screenshot_43" src="https://github.com/user-attachments/assets/312cf21b-5247-4906-beb7-59796fcbecb9" />
 
 
+**CONTACT DEV** : https://t.me/ZeroTraceDevOfficial
+**PRICE** : 800$
+
 **Disclaimer**: This tool is strictly intended for **educational**, **ethical testing**, and **research** purposes only.  
 Unauthorized access to systems without explicit permission is illegal and strictly prohibited.
 
