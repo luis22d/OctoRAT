@@ -22,7 +22,7 @@ Unauthorized access to systems without explicit permission is illegal and strict
 
 ## Overview
 
-OctoRat is a cutting-edge remote administration framework designed for security professionals and red team operators.  
+OctoRat is a cutting-edge remote administration framework designed for security professionals.  
 Built with performance and stealth in mind, it delivers real-time control and insight across platforms with a highly optimized UI and secure backend.
 
 </div>
@@ -64,11 +64,15 @@ Built with performance and stealth in mind, it delivers real-time control and in
 - GeoIP Mapping
 
 ### Miscellaneous
+- Password Recovery Chrome 139+ latest version
+- Cookies Recovery Chrome 139+ latest version
 - Plugin System for Extendability
 - Self-Destruct and Cleanup Routines
-- Modern WPF/WinUI-inspired UI with Blur and Animation
-- HVNC with up to 60 FPS Streaming
+- Modern inspired UI with Animation
+- Remote Desktop with up to 60 FPS Streaming
 
+### Miscellaneous
+- Many Other More Features
 ---
 
 <div align="center">
@@ -83,7 +87,7 @@ Built with performance and stealth in mind, it delivers real-time control and in
 
 - Server NodeJS
 - Built with C/C++ (Client)
-- UI powered by DevExpress with dark theming and blur
+- UI powered by NodeJS Custom with dark theming
 - Asynchronous networking for high performance
 - Modular architecture with secure plugin loading
 - AES-256 Encrypted Socket Communication
